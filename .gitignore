@@ -1,0 +1,13 @@
+# ide
+.vscode/
+.ignore/
+
+# builds
+build/
+*.exe
+*.dll
+
+# super long c files
+include/glad/
+include/KHR/
+src/glad.c
